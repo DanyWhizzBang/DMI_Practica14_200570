@@ -22,8 +22,8 @@ Fecha entrega: 06 de noviembre del 2023
 ### Imágenes de la APP
 
 <div style="text-align: center">
-    <img src="https://github.com/MauricioRL15/Imagenes/blob/dfcb4e8482a17cd829a5cb4e823dcb39168621a3/P14_IMG1.jpg?raw=true" alt="Imagen 1" width="400" height="850"/>
+    <img src="https://github.com/DanyWhizzBang/DMI_Practica13_200570/raw/main/assets/ss1.png?raw=true" alt="Imagen 1" width="400" height="850"/>
     <img src="https://github.com/MauricioRL15/Imagenes/blob/dfcb4e8482a17cd829a5cb4e823dcb39168621a3/P14_IMG3.jpg?raw=true" alt="Imagen 3" width="400" height="850"/>
-    <img src="https://github.com/MauricioRL15/Imagenes/blob/dfcb4e8482a17cd829a5cb4e823dcb39168621a3/P14_IMG4.jpg?raw=true" alt="Imagen 4" width="400" height="850"/>
+    <img src="https://github.com/DanyWhizzBang/DMI_Practica13_200570/raw/main/assets/ss2.png?raw=true" alt="Imagen 4" width="400" height="850"/>
     <img src="https://github.com/MauricioRL15/Imagenes/blob/dfcb4e8482a17cd829a5cb4e823dcb39168621a3/P14_IMG2.jpg?raw=true" alt="Imagen 2" width="400" height="850"/>
 </div>

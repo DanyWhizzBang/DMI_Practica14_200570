@@ -1,4 +1,4 @@
-# DMI_Práctica14_200070
+# DMI_Práctica14_200570
 <div style="display: flex; justify-content: space-between;">
     <img align="left" src="https://github.com/MauricioRL15/Logos_UTXJ/blob/main/LOGO%20TIC.png?raw=true" alt="Imagen 1" width="200" />
     <img align="right" src="https://github.com/MauricioRL15/Logos_UTXJ/blob/main/LOGO%20UTXJ%202019.png?raw=true" alt="Imagen 2" width="300" height="80" />
@@ -10,8 +10,8 @@
 
 <div style="text-align: justify;">
 Materia: Desarrollo Móvil Integral. <br><br>
-Alumno: Mauricio Ramírez López <br><br>
-Matrícula: 200070 <br><br>
+Alumno: Daniel Arroyo Méndez <br><br>
+Matrícula: 200570 <br><br>
 Práctica 14: Implementación del módulo de actores de Películas y Series de TV. <br><br>
 Descripción: Continuamos con la aplicación, en esta parte agregamos archivos, con los cuales obtuvimos que saliera el poster al precionar sobre la pelicula o serie, su calificacion sobre 10, y los actores que participan en ella. Es una aplicación desarrollada en Flutter y es una app centrada en la visualización de peliculas y series populares. Permite a los usuarios acceder a una amplia gama de series televisivas y explorar contenido variado y actualizado. Con una interfaz amigable e intuitiva, los usuarios pueden descubrir información relevante sobre cada serie, incluyendo su título, calificación promedio, sinopsis, fecha de lanzamiento y géneros asociados. Además, la aplicación ofrece la posibilidad de ver los pósters de las series para obtener una vista previa visual. Al brindar acceso rápido a estas series populares, la app se convierte en un hub digital para entusiastas del entretenimiento, facilitando la elección de series para ver y mantenerse al día con las últimas tendencias.<br><br>
 Fecha entrega: 06 de noviembre del 2023
